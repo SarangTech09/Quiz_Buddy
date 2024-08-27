@@ -1,0 +1,92 @@
+.result-container {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .congo-img {
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 4px 4px black;
+    height: 90vh;
+    width: 75vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family: sans-serif;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .congo-text {
+    height: 140px;
+    width: 370px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 12px;
+    align-items: center;
+    background-color: wheat;
+    padding: 10px;
+    border: 2px solid black;
+  }
+  
+  
+  .done-button:hover {
+    background-color: black !important;
+    color: white !important;
+  }
+  
+  /* Media Queries */
+
+/* For screens less than 900px wide (e.g., tablets) */
+@media (max-width: 900px) {
+    .congo-img {
+      height: 80vh;
+      width: 85vw;
+      padding: 8px;
+    }
+  
+    .congo-text {
+      height: 120px;
+      width: 320px;
+      font-size: 0.9rem;
+    }
+  }
+  
+  /* For screens less than 600px wide (e.g., mobile devices) */
+  @media (max-width: 600px) {
+    .congo-img {
+      height: 70vh;
+      width: 90vw;
+      padding: 5px;
+    }
+  
+    .congo-text {
+      height: 100px;
+      width: 280px;
+      font-size: 0.8rem;
+    }
+  }
+  
+  /* For screens less than 400px wide (e.g., small mobile devices) */
+  @media (max-width: 400px) {
+    .congo-img {
+      height: 60vh;
+      width: 95vw;
+      padding: 3px;
+    }
+  
+    .congo-text {
+      height: 90px;
+      width: 250px;
+      font-size: 0.7rem;
+    }
+  }
