@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Quiz_Buddy/static/css/main.6207f643.css",
+    "main.js": "/Quiz_Buddy/static/js/main.f7e769cd.js",
+    "static/media/myQuiz.png": "/Quiz_Buddy/static/media/myQuiz.5bcef891588b368d2b79.png",
+    "static/media/play.png": "/Quiz_Buddy/static/media/play.3796b889a4eff026e3cb.png",
+    "static/media/createNew.png": "/Quiz_Buddy/static/media/createNew.2a9888a166e156fc1209.png",
+    "static/media/404.png": "/Quiz_Buddy/static/media/404.cb1fa67435a8a526e2f8.png",
+    "static/media/s.jpg": "/Quiz_Buddy/static/media/s.44bb6ba426eda42bf956.jpg",
+    "static/media/r.jpg": "/Quiz_Buddy/static/media/r.5fbdddf1e5947eaa4b84.jpg",
+    "static/media/quiz.jpg": "/Quiz_Buddy/static/media/quiz.48d138ea87e147c8a193.jpg",
+    "static/media/mario_flag_win.mp3": "/Quiz_Buddy/static/media/mario_flag_win.42e88e18f30ca6c716b5.mp3",
+    "static/media/bgimg.jpg": "/Quiz_Buddy/static/media/bgimg.b07b39c089ec87d3e271.jpg",
+    "static/media/mario_bros_coin.mp3": "/Quiz_Buddy/static/media/mario_bros_coin.f9d453aea6062d4d0c73.mp3",
+    "static/media/u_click.mp3": "/Quiz_Buddy/static/media/u_click.630c97f15bda714260c3.mp3",
+    "index.html": "/Quiz_Buddy/index.html",
+    "main.6207f643.css.map": "/Quiz_Buddy/static/css/main.6207f643.css.map",
+    "main.f7e769cd.js.map": "/Quiz_Buddy/static/js/main.f7e769cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6207f643.css",
+    "static/js/main.f7e769cd.js"
+  ]
+}
