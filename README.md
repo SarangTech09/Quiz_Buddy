@@ -1,7 +1,7 @@
 # Quiz Buddy
 A Quiz Buddy application built using react ⚛️ where you can create your own quiz and play.
 
-# Deployed link :
+# Deployed link :https://sarangtech09.github.io/Quiz_Buddy/
 
 ## ⚙️ Features
 * You can create multiple number of MCQ quizzes
